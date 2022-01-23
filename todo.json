@@ -1,0 +1,162 @@
+[
+    {
+        "body": {
+            "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('adhifakhrezza%40gmail.com')/todo/lists('AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoALgAAA7cGm2YwNfZAj_JcoP8_xtIBAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAA%3D%3D')/tasks",
+            "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/todo/lists/AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoALgAAA7cGm2YwNfZAj_JcoP8_xtIBAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAA==/tasks?$skip=10",
+            "value": [
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC71Pr4w==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "Upload buku",
+                    "createdDateTime": "2022-01-23T10:10:02.4347511Z",
+                    "lastModifiedDateTime": "2022-01-23T10:10:02.4972382Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAu80zxcAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC71Pr3Q==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "Koding aplikasi",
+                    "createdDateTime": "2022-01-23T10:09:54.0265461Z",
+                    "lastModifiedDateTime": "2022-01-23T10:09:54.1046567Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAu80zxYAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC71Pr1w==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "Desain aplikasi",
+                    "createdDateTime": "2022-01-23T10:09:45.9484267Z",
+                    "lastModifiedDateTime": "2022-01-23T10:09:46.0109176Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAu80zxUAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC71Pr0Q==\"",
+                    "importance": "normal",
+                    "isReminderOn": true,
+                    "status": "notStarted",
+                    "title": "Benerin ruang baca",
+                    "createdDateTime": "2022-01-23T10:09:38.0690464Z",
+                    "lastModifiedDateTime": "2022-01-23T10:09:38.1158536Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAu80zxQAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    },
+                    "reminderDateTime": {
+                        "dateTime": "2022-01-23T14:00:00.0000000",
+                        "timeZone": "UTC"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC71Pryw==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "Ngajar matthew",
+                    "createdDateTime": "2022-01-23T10:09:22.9124671Z",
+                    "lastModifiedDateTime": "2022-01-23T10:09:22.9760588Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAu80zxMAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC71PjkQ==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "Gggg-gg",
+                    "createdDateTime": "2022-01-23T06:55:34.910883Z",
+                    "lastModifiedDateTime": "2022-01-23T07:05:36.5255894Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAu80zxEAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC6447Bw==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "Add tendik",
+                    "createdDateTime": "2022-01-18T23:55:34.84387Z",
+                    "lastModifiedDateTime": "2022-01-19T00:05:36.4306918Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAutvIKkAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC7oqcNQ==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "Acc siswa",
+                    "createdDateTime": "2022-01-18T23:55:30.7518363Z",
+                    "lastModifiedDateTime": "2022-01-22T06:37:08.1789751Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAutvIKgAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC643nHQ==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "completed",
+                    "title": "Kuliah umum remaja",
+                    "createdDateTime": "2022-01-17T07:35:33.2827096Z",
+                    "lastModifiedDateTime": "2022-01-17T21:09:29.3152983Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAuq_fYMAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    },
+                    "completedDateTime": {
+                        "dateTime": "2022-01-18T00:00:00.0000000",
+                        "timeZone": "UTC"
+                    },
+                    "reminderDateTime": {
+                        "dateTime": "2022-01-17T10:30:00.0000000",
+                        "timeZone": "UTC"
+                    }
+                },
+                {
+                    "@odata.etag": "W/\"crLxHXQIzUS5oP2tUNvGHgAC6445DA==\"",
+                    "importance": "normal",
+                    "isReminderOn": false,
+                    "status": "notStarted",
+                    "title": "EWOQ",
+                    "createdDateTime": "2022-01-16T23:36:24.8860274Z",
+                    "lastModifiedDateTime": "2022-01-18T23:55:04.6295284Z",
+                    "id": "AQMkADAwATM3ZmYAZS0xY2MAOC05MTRmLTAwAi0wMAoARgAAA7cGm2YwNfZAj_JcoP8_xtIHAHKy8R10CM1EuaD9rVDbxh4AAAIBEgAAAHKy8R10CM1EuaD9rVDbxh4AAuq_fYIAAAA=",
+                    "body": {
+                        "content": "",
+                        "contentType": "text"
+                    }
+                }
+            ]
+        }
+    }
+]
